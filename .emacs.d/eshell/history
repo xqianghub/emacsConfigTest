@@ -1,0 +1,14 @@
+ls
+rm a.exe
+ls
+ls class
+g++ -o pcapTest pcapTest.cc
+ls
+pcapTest
+./pcapTest.exe 
+ls
+cd ../../
+scrapy crawl dmoz
+scrapy crawl dmoz
+scrapy crawl dmoz
+scrapy crawl dmoz
