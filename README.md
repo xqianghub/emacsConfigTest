@@ -1,1 +1,1 @@
-My emacs config file when I beginning learning emacs.
+My emacs config file when I began to learn emacs.
